@@ -22,8 +22,8 @@ const projects: Project[] = [
       'A Modern & ATS-Friendly Resume Building Platform built with Next.js and Firebase , Simplifying the hiring process for recruiters and candidates with a stunning UI and robust features.',
     image : '/HireByte.jpg',
     tech: ['Next.js', 'Tailwind CSS', 'Typescript', 'Firebase'],
-    liveUrl: 'https://hirebyte0.netlify.app/',
-    githubUrl: 'https://github.com/Jeeban-2006/HireByte',
+    liveUrl: 'https://hirebytev2.netlify.app/',
+    githubUrl: 'https://github.com/Jeeban-2006/HireByte2',
     aiHint: 'A resume building platform',
   },
   {
