@@ -22,7 +22,7 @@ export function AboutSection() {
         <div className="mt-16 grid grid-cols-1 gap-12 lg:grid-cols-3 lg:gap-8">
           <div className="lg:col-span-1 flex justify-center items-center">
             <Image
-              src="/about.png"
+              src="/about.jpg"
               alt="Portrait of Jeeban working at a computer"
               width={400}
               height={533}

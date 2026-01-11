@@ -13,7 +13,8 @@ const skills = {
   ],
   'Languages': [
    { name: 'Python',     icon: <FileCode /> },    // FileCode for general code
-  { name: 'Java',       icon: <Coffee /> },      // Coffee cup (Java)
+  { name: 'Java',       icon: <Coffee /> }, 
+  {name: 'C', icon: <Coffee />},     // Coffee cup (Java)
   { name: 'JavaScript', icon: <Code /> },        // Code brackets
        // Palette for styling
   { name: 'MySQL',      icon: <Database /> },    // Database icon
