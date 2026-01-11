@@ -8,7 +8,7 @@ Built with **Next.js** and designed for modern web experiences.
 This project showcases my skills, projects, education, and professional background in a clean and interactive format.  
 It’s fully responsive, fast, and integrates with Firebase for real-time updates and authentication.
 
-- **Live Demo:** [View Portfolio](https://jeeban-portfolio.netlify.app)
+- **Live Demo:** [View Portfolio](https://jeebankrushnasahu.vercel.app/)
 - **Technologies:** Next.js, TypeScript, Tailwind CSS, Firebase, Lucide Icons
 
 ## 🧑‍💻 Features
