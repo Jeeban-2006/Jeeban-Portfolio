@@ -26,7 +26,7 @@ const projects: Project[] = [
     image : '/HireByte.jpg',
     tech: ['Next.js', 'Tailwind CSS', 'Typescript', 'Firebase'],
     liveUrl: 'https://hirebyte.vercel.app/',
-    githubUrl: 'https://github.com/Jeeban-2006/HireByte2',
+    githubUrl: 'https://github.com/Jeeban-2006/HireByte',
     aiHint: 'A resume building platform',
   },
   {
